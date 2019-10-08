@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b2d2ab37-88f8-45cc-9383-2575822b5b85" name="Default Changelist" comment="" />
+    <list default="true" id="8876ff81-2206-4fd2-a717-b30f93bd22d9" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,11 +11,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1RbGYeAab47B3SR8Mnnj2dIWUU4" />
+  <component name="ProjectId" id="1RayxgqBBDVYdSslSh4RxdcuXGk" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -41,7 +43,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="mm.morisch.Main" />
-      <module name="moritzmaier_ue3_2" />
+      <module name="maier_moritz_hue3" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -49,18 +51,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b2d2ab37-88f8-45cc-9383-2575822b5b85" name="Default Changelist" comment="" />
-      <created>1569928430543</created>
+      <changelist id="8876ff81-2206-4fd2-a717-b30f93bd22d9" name="Default Changelist" comment="" />
+      <created>1569919749205</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1569928430543</updated>
-      <workItem from="1569928433876" duration="554000" />
+      <updated>1569919749205</updated>
+      <workItem from="1569919753897" duration="2997000" />
+      <workItem from="1570436478562" duration="2017000" />
     </task>
     <servers />
   </component>
